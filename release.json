@@ -1,0 +1,20 @@
+{
+  "viewerVersion": "0.1.0",
+  "buildHash": "5885fbf6b692e64a",
+  "localImport": false,
+  "storageConfigured": false,
+  "files": [
+    {
+      "file": "index.html",
+      "sha256": "6d05b32251e37e3926a0b7f6b88e65b9191747b5ad421fb6dd1ab99bcb137583"
+    },
+    {
+      "file": "viewer.c83275f20ef2c643.js",
+      "sha256": "c83275f20ef2c643fb27fb623bbaa7447a9d696d4629f24c90795869aa5cfe30"
+    },
+    {
+      "file": "viewer.45b3b41218d7c5b8.css",
+      "sha256": "45b3b41218d7c5b853cf0f9c56359dc90b9d15363c1f8db2d55513da7231b7f9"
+    }
+  ]
+}

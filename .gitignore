@@ -1,0 +1,36 @@
+# Deny by default: only reviewed generic static viewer files belong here.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
+!release.json
+!viewer.*.js
+!viewer.*.css
+
+# Never upload datasets, secrets, environment files, profiles or diagnostics.
+.private/
+artifacts/
+test-results/
+profiles/
+screenshots/
+decrypted/
+.env
+.env.*
+*.bin
+*.hbpoc
+*.pdf
+*.png
+*.jpg
+*.log
+*.jwk
+*.pem
+*.key
+*.pfx
+*.p12
+credentials*
+cookies*
+tokens*
+.wrangler/
+.cloudflare/
+node_modules/
