@@ -1,0 +1,23 @@
+{
+  "viewerVersion": "1.0.0-synthetic",
+  "buildHash": "44950225fff1ec51",
+  "gatewayConfigured": true,
+  "files": [
+    {
+      "file": "index.html",
+      "sha256": "055f166528fc258641419659891859ac7320a63c92bee3f0455716d8c86af16c"
+    },
+    {
+      "file": "viewer.4bb996755dad12a3.js",
+      "sha256": "4bb996755dad12a3e03ec4309220444c22c815bdd6cf3394abb0148e56428827"
+    },
+    {
+      "file": "viewer.45b3b41218d7c5b8.css",
+      "sha256": "45b3b41218d7c5b853cf0f9c56359dc90b9d15363c1f8db2d55513da7231b7f9"
+    },
+    {
+      "file": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}
