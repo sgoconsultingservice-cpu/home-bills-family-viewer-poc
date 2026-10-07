@@ -1,16 +1,16 @@
 {
   "viewerVersion": "0.1.0",
-  "buildHash": "5885fbf6b692e64a",
+  "buildHash": "e196c24176cc040c",
   "localImport": false,
-  "storageConfigured": false,
+  "storageConfigured": true,
   "files": [
     {
       "file": "index.html",
-      "sha256": "6d05b32251e37e3926a0b7f6b88e65b9191747b5ad421fb6dd1ab99bcb137583"
+      "sha256": "92a12719b443bc4cea92a2c37b70913d1d8ebdaa05e6cb1496102274c7cb2c09"
     },
     {
-      "file": "viewer.c83275f20ef2c643.js",
-      "sha256": "c83275f20ef2c643fb27fb623bbaa7447a9d696d4629f24c90795869aa5cfe30"
+      "file": "viewer.ac7690426c1e9cdf.js",
+      "sha256": "ac7690426c1e9cdf34cdcab98960303dcf575f4130baee047b6356887543088f"
     },
     {
       "file": "viewer.45b3b41218d7c5b8.css",

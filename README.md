@@ -4,7 +4,7 @@ Generic static read-only browser viewer code only. No financial dataset, encrypt
 
 Code is served by GitHub Pages. Only existing synthetic encrypted payloads and a nonsensitive signed bootstrap descriptor may be served separately by Cloudflare R2 for this POC. Unlocking and verification happen locally in the browser.
 
-Viewer version: 0.1.0. Build: 5885fbf6b692e64a. Storage configured: false.
+Viewer version: 0.1.0. Build: e196c24176cc040c. Storage configured: true.
 
 Publish the main branch root with GitHub Pages and HTTPS. No custom workflow, runtime third-party JavaScript, analytics, domain, deploy token or Actions secret is required.
 
