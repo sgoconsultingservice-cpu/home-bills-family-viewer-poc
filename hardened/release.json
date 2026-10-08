@@ -1,15 +1,15 @@
 {
-  "viewerVersion": "1.0.0-synthetic",
-  "buildHash": "fbc7c35a2912b614",
+  "viewerVersion": "1.1.0-production-key-synthetic",
+  "buildHash": "2e5c4d5579b6b4d7",
   "gatewayConfigured": true,
   "files": [
     {
       "file": "index.html",
-      "sha256": "b987d223cbc4fe3c0a414adca8d89d87cc8800eb5b1b532723b8e354b3e5536d"
+      "sha256": "0ac5736737380246be459ff6a34800a96fb19ed32b8f3d66e4780d5948fe4f98"
     },
     {
-      "file": "viewer.59892c84c602043b.js",
-      "sha256": "59892c84c602043b8d74b4ab3a90530c815cd28c7504067d0f38c61b322e4199"
+      "file": "viewer.1c16e4c6e333b242.js",
+      "sha256": "1c16e4c6e333b242c2072c562974c7b2e7156c8f27fff0b8e1897e2b021e0339"
     },
     {
       "file": "viewer.45b3b41218d7c5b8.css",
