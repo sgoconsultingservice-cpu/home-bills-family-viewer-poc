@@ -1,15 +1,15 @@
 {
-  "viewerVersion": "1.2.0-sean-pilot1",
-  "buildHash": "ef057e7e6ea30bef",
+  "viewerVersion": "1.2.1-sean-pilot1-return",
+  "buildHash": "f3a35b127b58d4c8",
   "gatewayConfigured": true,
   "files": [
     {
       "file": "index.html",
-      "sha256": "66d98cb41e6fe50d6f9c0d059fa0fedf58fa93f871c3b9369fdf3bc2a019cf8e"
+      "sha256": "be7554a7e2600529e07def548cb0b3d3ca9d158f03d2b4b677d3a456783b65e2"
     },
     {
-      "file": "viewer.69eff98c64965282.js",
-      "sha256": "69eff98c649652829bf9ea55f17cd7be6ed0c6acef88f8ae096150e64def7c11"
+      "file": "viewer.7d8429b8031a8715.js",
+      "sha256": "7d8429b8031a8715bd90fe2da3bd7894ef5fde7ca4609eb552e7eb9c1555acd7"
     },
     {
       "file": "viewer.45b3b41218d7c5b8.css",
