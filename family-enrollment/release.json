@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "viewerVersion": "2.0.0-family-password",
+  "reviewOnly": false,
+  "deployable": true,
+  "enrollmentOnly": true,
+  "contentProfile": "shared-family",
+  "configPins": {
+    "root": {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "9VjfOyx1MrVkvr-3tm0hPUWtfV0UHNL6_dSd9JlBDHY",
+      "y": "qKzhhMJh8WJx6ihvXHCWizXPdEViFGqhjRfUF8qAiBI"
+    },
+    "userId": "d8aebf6fdd54534893d6363cb0737a4a",
+    "streamId": "eb18e8e1d37bc97debdde0cdf6814532",
+    "recoveryId": "92df7e334568b1390cc439a34fe401d1",
+    "minimumVersion": 7,
+    "minimumEpoch": 1,
+    "contentProfile": "shared-family",
+    "email": "sgo@secureenroll.com",
+    "gatewayOrigin": "https://home-bills-ciphertext-gateway.sgoconsultingservice.workers.dev",
+    "shared": true,
+    "viewerVersion": "2.0.0-family-password",
+    "buildHash": "2eee032f650dcc40",
+    "enrollmentOnly": true
+  },
+  "files": [
+    {
+      "file": "viewer.07c41b30f5656d91.js",
+      "sha256": "07c41b30f5656d91e3fc2c525b03c42665c196ae0a99b8ce67bd93cb5f4c5dc5"
+    },
+    {
+      "file": "viewer.45b3b41218d7c5b8.css",
+      "sha256": "45b3b41218d7c5b853cf0f9c56359dc90b9d15363c1f8db2d55513da7231b7f9"
+    },
+    {
+      "file": "index.html",
+      "sha256": "2c6dea010f5555a11b0616bd946474bdb47f942b263a6619a8e7d3599de2bf2e"
+    },
+    {
+      "file": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}
